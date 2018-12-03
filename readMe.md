@@ -1,0 +1,1 @@
+Remove NumberPlate for Android
