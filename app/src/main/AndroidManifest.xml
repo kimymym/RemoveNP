@@ -16,6 +16,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
+        <activity android:name="com.karumi.dexter.DexterActivity"
+            android:configChanges="orientation|screenLayout|screenSize"
+            />
     </application>
 
 </manifest>
